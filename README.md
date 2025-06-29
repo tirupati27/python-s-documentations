@@ -3,6 +3,9 @@
 > A beginner-friendly and practical knowledge hub for Python enthusiasts. Whether you're just getting started or brushing up your skills, this repository is your learning's gateway.
 
 
+**[Open The Project](https://tirupati27.github.io/python-s-documentations/)**
+
+
 ---
 
 ## 📚 What's Inside?
