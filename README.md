@@ -33,5 +33,4 @@ This repository is a **comprehensive collection of Python learning resources** t
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/python-learners-guide.git
-cd python-learners-guide
+git clone https://github.com/tirupati27/python-s-documentations/
